@@ -16,7 +16,7 @@
 
 ![image](https://github.com/titoironman/spec_final_task/assets/11056620/a4165580-7cbb-445b-9bc8-72fd514cc34d)
 
-![image](https://github.com/titoironman/spec_final_task/assets/11056620/e4b570e8-f998-466f-9617-2fded5d84c71)
+![image](https://github.com/titoironman/spec_final_task/assets/11056620/386f8bd7-a8a2-46c2-86e1-61e55fcfa35f)
 
 2.	Создать директорию, переместить файл туда.
 
@@ -31,6 +31,11 @@
 ![image](https://github.com/titoironman/spec_final_task/assets/11056620/aea01d05-80ea-4853-b5e1-1872176f2c13)
 
 4.	Установить и удалить deb-пакет с помощью dpkg.
+
+![image](https://github.com/titoironman/spec_final_task/assets/11056620/18e19913-c7e2-4bd1-a951-40e0bddc01e8)
+
+![image](https://github.com/titoironman/spec_final_task/assets/11056620/4b8317ce-7be9-4a9e-85d7-08e258bac3c6)
+
 5.	Выложить историю команд в терминале ubuntu
 6.	Нарисовать диаграмму, в которой есть класс родительский класс, домашние животные и вьючные животные, в составы которых в случае домашних животных войдут классы: собаки, кошки, хомяки, а в класс вьючные животные войдут: Лошади, верблюды и ослы).
 7.	В подключенном MySQL репозитории создать базу данных “Друзья человека”.
