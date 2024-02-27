@@ -54,46 +54,47 @@ USE HumanFriends;
 
 ![image](https://github.com/titoironman/spec_final_task/assets/11056620/b8feaa18-28ad-4160-85c9-621dd9fa9530)
 
-
 ![image](https://github.com/titoironman/spec_final_task/assets/11056620/670a310a-f58b-45e9-a446-0da52d8fdb47)
-
 
 ![image](https://github.com/titoironman/spec_final_task/assets/11056620/aeab5cb3-df05-4d91-9060-a33cbe46a0ff)
 
-
 ![image](https://github.com/titoironman/spec_final_task/assets/11056620/f689eea5-7331-49c3-8c8b-896740e727bf)
-
 
 ![image](https://github.com/titoironman/spec_final_task/assets/11056620/0664b053-5934-45c6-82f3-acec0ba97335)
 
-
 ![image](https://github.com/titoironman/spec_final_task/assets/11056620/1a7c29ec-e66c-4ef7-bc2e-db529edf1a28)
-
 
 ![image](https://github.com/titoironman/spec_final_task/assets/11056620/235d5139-51fe-441a-af8a-ab2de2a3b8fb)
 
-
 ![image](https://github.com/titoironman/spec_final_task/assets/11056620/a6bb85fc-0ccd-45ad-901d-7a9be24478af)
-
 
 ![image](https://github.com/titoironman/spec_final_task/assets/11056620/783d8a7e-a867-4478-8c86-6f5e6710613e)
 
-
 ![image](https://github.com/titoironman/spec_final_task/assets/11056620/ff0007dd-901d-47b7-8c71-d727dc739711)
-
 
 ![image](https://github.com/titoironman/spec_final_task/assets/11056620/def79a03-c0a1-45e5-aee8-23eb13adb171)
 
-
 ![image](https://github.com/titoironman/spec_final_task/assets/11056620/a37848f7-75a4-458d-8eb4-8ffc0cbd07d1)
 
+9.	Заполнить низкоуровневые таблицы именами(животных), командами которые они выполняют и датами рождения.
 
-10.	Заполнить низкоуровневые таблицы именами(животных), командами которые они выполняют и датами рождения.
-11.	Удалив из таблицы верблюдов, т.к. верблюдов решили перевезти в другой питомник на зимовку. Объединить таблицы лошади, и ослы в одну таблицу.
-12.	Создать новую таблицу “молодые животные” в которую попадут все животные старше 1 года, но младше 3 лет и в отдельном столбце с точностью до месяца подсчитать возраст животных в новой таблице.
-13.	Объединить все таблицы в одну, при этом сохраняя поля, указывающие на прошлую принадлежность к старым таблицам.
-14.	Создать класс с Инкапсуляцией методов и наследованием по диаграмме.
-15.	Написать программу, имитирующую работу реестра домашних животных.
+![image](https://github.com/titoironman/spec_final_task/assets/11056620/d28f9975-dbb7-4a23-958f-3c4ff56450d2)
+
+![image](https://github.com/titoironman/spec_final_task/assets/11056620/23fea1ee-fae3-461c-8a31-e5dde277c1cc)
+
+![image](https://github.com/titoironman/spec_final_task/assets/11056620/1a53fd08-c29c-4288-93fd-5d1e64e21097)
+
+![image](https://github.com/titoironman/spec_final_task/assets/11056620/ba7148af-c3bf-4456-9d9c-fedfae6764d4)
+
+![image](https://github.com/titoironman/spec_final_task/assets/11056620/caf5bb90-1a81-481c-9f63-f9363d9abb44)
+
+![image](https://github.com/titoironman/spec_final_task/assets/11056620/cd9cfb05-a63c-4777-a5e9-f314ccc8b64b)
+
+10.	Удалив из таблицы верблюдов, т.к. верблюдов решили перевезти в другой питомник на зимовку. Объединить таблицы лошади, и ослы в одну таблицу.
+11.	Создать новую таблицу “молодые животные” в которую попадут все животные старше 1 года, но младше 3 лет и в отдельном столбце с точностью до месяца подсчитать возраст животных в новой таблице.
+12.	Объединить все таблицы в одну, при этом сохраняя поля, указывающие на прошлую принадлежность к старым таблицам.
+13.	Создать класс с Инкапсуляцией методов и наследованием по диаграмме.
+14.	Написать программу, имитирующую работу реестра домашних животных.
 
 В программе должен быть реализован следующий функционал:
 
