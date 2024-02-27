@@ -94,9 +94,16 @@ USE HumanFriends;
 
 ![image](https://github.com/titoironman/spec_final_task/assets/11056620/ef356570-9840-4a22-b4bc-ddec9b3bd641)
 
-![image](https://github.com/titoironman/spec_final_task/assets/11056620/b30a00a2-98e5-4b1a-8a47-6a0771ae7e42)
+![image](https://github.com/titoironman/spec_final_task/assets/11056620/62fe5cf6-0e21-4413-a538-2103ae8f2402)
 
 11.	Создать новую таблицу “молодые животные” в которую попадут все животные старше 1 года, но младше 3 лет и в отдельном столбце с точностью до месяца подсчитать возраст животных в новой таблице.
+
+![image](https://github.com/titoironman/spec_final_task/assets/11056620/0f1e812d-73fd-48ff-a2ac-a4dcf7d61231)
+
+![image](https://github.com/titoironman/spec_final_task/assets/11056620/85453a18-4737-47f9-85b9-b67b4206f815)
+
+![image](https://github.com/titoironman/spec_final_task/assets/11056620/6aba6fe6-737b-40f1-977c-bc34344aaeed)
+
 12.	Объединить все таблицы в одну, при этом сохраняя поля, указывающие на прошлую принадлежность к старым таблицам.
 13.	Создать класс с Инкапсуляцией методов и наследованием по диаграмме.
 14.	Написать программу, имитирующую работу реестра домашних животных.
