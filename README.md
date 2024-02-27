@@ -52,29 +52,41 @@
 
 USE HumanFriends;
 
-![image](https://github.com/titoironman/spec_final_task/assets/11056620/293296f5-5eb3-4976-a343-4f9566bca4ad)
+![image](https://github.com/titoironman/spec_final_task/assets/11056620/b8feaa18-28ad-4160-85c9-621dd9fa9530)
 
-![image](https://github.com/titoironman/spec_final_task/assets/11056620/033f2378-3df8-4f7b-9146-477c6df7c6ef)
 
-![image](https://github.com/titoironman/spec_final_task/assets/11056620/2968bb6c-119e-483c-90ae-aa82e580daa5)
+![image](https://github.com/titoironman/spec_final_task/assets/11056620/670a310a-f58b-45e9-a446-0da52d8fdb47)
 
-![image](https://github.com/titoironman/spec_final_task/assets/11056620/15aec6d2-0622-41fd-8391-a3735b561754)
 
-![image](https://github.com/titoironman/spec_final_task/assets/11056620/05a4dae3-f8d3-4b81-bf30-493114dde7c4)
+![image](https://github.com/titoironman/spec_final_task/assets/11056620/aeab5cb3-df05-4d91-9060-a33cbe46a0ff)
 
-![image](https://github.com/titoironman/spec_final_task/assets/11056620/8b14ad65-ef7c-4294-b9d0-78c7a75c5802)
 
-![image](https://github.com/titoironman/spec_final_task/assets/11056620/de029e3a-fe5d-4002-9bdf-e472f4c18073)
+![image](https://github.com/titoironman/spec_final_task/assets/11056620/f689eea5-7331-49c3-8c8b-896740e727bf)
 
-![image](https://github.com/titoironman/spec_final_task/assets/11056620/e2ee036a-4dd3-489f-a4e6-b32db2b0ec88)
 
-![image](https://github.com/titoironman/spec_final_task/assets/11056620/87a5497c-afc8-4767-a95e-170a5f5eb354)
+![image](https://github.com/titoironman/spec_final_task/assets/11056620/0664b053-5934-45c6-82f3-acec0ba97335)
 
-![image](https://github.com/titoironman/spec_final_task/assets/11056620/8c8a2024-a18b-4e12-8bfb-4d36e9ab12c1)
 
-![image](https://github.com/titoironman/spec_final_task/assets/11056620/e5872355-3a1c-4f14-a47d-b744dd9a41a9)
+![image](https://github.com/titoironman/spec_final_task/assets/11056620/1a7c29ec-e66c-4ef7-bc2e-db529edf1a28)
 
-![image](https://github.com/titoironman/spec_final_task/assets/11056620/cb5c68b8-2d7a-4e86-b12d-a52d6ad4e279)
+
+![image](https://github.com/titoironman/spec_final_task/assets/11056620/235d5139-51fe-441a-af8a-ab2de2a3b8fb)
+
+
+![image](https://github.com/titoironman/spec_final_task/assets/11056620/a6bb85fc-0ccd-45ad-901d-7a9be24478af)
+
+
+![image](https://github.com/titoironman/spec_final_task/assets/11056620/783d8a7e-a867-4478-8c86-6f5e6710613e)
+
+
+![image](https://github.com/titoironman/spec_final_task/assets/11056620/ff0007dd-901d-47b7-8c71-d727dc739711)
+
+
+![image](https://github.com/titoironman/spec_final_task/assets/11056620/def79a03-c0a1-45e5-aee8-23eb13adb171)
+
+
+![image](https://github.com/titoironman/spec_final_task/assets/11056620/a37848f7-75a4-458d-8eb4-8ffc0cbd07d1)
+
 
 10.	Заполнить низкоуровневые таблицы именами(животных), командами которые они выполняют и датами рождения.
 11.	Удалив из таблицы верблюдов, т.к. верблюдов решили перевезти в другой питомник на зимовку. Объединить таблицы лошади, и ослы в одну таблицу.
