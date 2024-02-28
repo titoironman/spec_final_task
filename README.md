@@ -98,7 +98,7 @@ USE HumanFriends;
 
 11.	Создать новую таблицу “молодые животные” в которую попадут все животные старше 1 года, но младше 3 лет и в отдельном столбце с точностью до месяца подсчитать возраст животных в новой таблице.
 
-![image](https://github.com/titoironman/spec_final_task/assets/11056620/0f1e812d-73fd-48ff-a2ac-a4dcf7d61231)
+![image](https://github.com/titoironman/spec_final_task/assets/11056620/16512ea0-3ae6-4b08-8777-911324fd3d8e)
 
 ![image](https://github.com/titoironman/spec_final_task/assets/11056620/aae9065e-bf4b-42e1-9373-8f8b3bce5064)
 
