@@ -100,9 +100,9 @@ USE HumanFriends;
 
 ![image](https://github.com/titoironman/spec_final_task/assets/11056620/0f1e812d-73fd-48ff-a2ac-a4dcf7d61231)
 
-![image](https://github.com/titoironman/spec_final_task/assets/11056620/85453a18-4737-47f9-85b9-b67b4206f815)
+![image](https://github.com/titoironman/spec_final_task/assets/11056620/aae9065e-bf4b-42e1-9373-8f8b3bce5064)
 
-![image](https://github.com/titoironman/spec_final_task/assets/11056620/6aba6fe6-737b-40f1-977c-bc34344aaeed)
+![image](https://github.com/titoironman/spec_final_task/assets/11056620/8d09179d-f8be-4691-bb5a-44e4ad64cbcb)
 
 12.	Объединить все таблицы в одну, при этом сохраняя поля, указывающие на прошлую принадлежность к старым таблицам.
 13.	Создать класс с Инкапсуляцией методов и наследованием по диаграмме.
